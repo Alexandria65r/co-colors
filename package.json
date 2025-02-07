@@ -1,12 +1,22 @@
 {
-  "name": "co-colors",
+  "name": "@leeftupwebservices/co-colors",
   "version": "1.0.0",
-  "description": "",
+  "description": "colors to use in a project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandria65r/co-colors.git"
+  },
+  "author": "Alexandria65",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexandria65r/co-colors/issues"
+  },
+  "homepage": "https://github.com/Alexandria65r/co-colors#readme",
+  "dependencies": {
+    "typescript": "^5.7.3"
+  }
 }
