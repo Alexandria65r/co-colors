@@ -1,6 +1,6 @@
 {
   "name": "@leeftupwebservices/co-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "colors to use in a project",
   "main": "index.js",
   "scripts": {
