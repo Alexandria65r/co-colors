@@ -20,5 +20,5 @@
     "typescript": "^5.7.3"
   },
   "module": "./index.js",
-  "types": "./types/index.d.ts"
+  "types": "./types"
 }
