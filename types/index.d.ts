@@ -6,7 +6,7 @@ export { default as common } from '../colors/common';
 export { default as cyan } from '../colors/cyan';
 export { default as deepOrange } from '../colors/deepOrange';
 export { default as deepPurple } from '../colors/deepPurple';
-export { default as green } from '../colors//green';
+export { default as green } from '../colors/green';
 export { default as grey } from '../colors/grey';
 export { default as indigo } from '../colors/indigo';
 export { default as lightBlue } from '../colors/lightBlue';

@@ -18,5 +18,7 @@
   "homepage": "https://github.com/Alexandria65r/co-colors#readme",
   "dependencies": {
     "typescript": "^5.7.3"
-  }
+  },
+  "types": "./types/index.d.ts"
+
 }
